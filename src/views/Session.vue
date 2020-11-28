@@ -11,8 +11,4 @@ import { Component, Vue } from "vue-property-decorator";
 export default class Session extends Vue {}
 </script>
 
-<style lang="scss">
-.content {
-  text-align: center;
-}
-</style>
+<style lang="scss"></style>
